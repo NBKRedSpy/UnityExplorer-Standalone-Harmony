@@ -1,6 +1,14 @@
+# Unity Explorer - Pardeike Harmony Version
+
+This is a fork of [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
+This version uses the regular version of Harmony https://github.com/pardeike/Harmony and was created to support games which do not use HarmonyX.
+
+The only build configuration supported is Release_STANDALONE_Mono.
+
 <p align="center">
   <img align="center" src="img/icon.png">
 </p>
+
 
 <p align="center">
   🔍 An in-game UI for exploring, debugging and modifying Unity games.
